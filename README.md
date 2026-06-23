@@ -1,2 +1,2 @@
 # playground
-what ist says - just a playground to work with git
+what it says - just a playground to work with git
